@@ -62,7 +62,7 @@ title: "Introducción"
 
 -   Seguridad Social
 
-# Conceptos
+# Conceptos {.unnumbered .unlisted}
 
 -   Principio de autoridad
 
