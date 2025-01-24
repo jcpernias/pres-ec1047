@@ -4,9 +4,15 @@ title: "Introducción"
 
 # Bibliografía {.unnumbered .unlisted}
 
-**Stiglitz** y **Rosengard**: *La economía del sector público*. Capítulo 1.
+**Stiglitz** y **Rosengard** (2016): *La economía del sector público*.
 
-**Albi** *et al*: *Economía Pública, volumen I*. Capítulo 2.
+-   Capítulo 1: "Definición de las responsabilidades del sector público".
+
+-   Capítulo 2: "La medición  de las dimensiones del sector público".
+
+**Albi**, **González-Páramo**, **Urbanos** y **Zubiri** (2018): *Economía Pública, volumen I*.
+
+-   Capítulo 2: "El Sector Público y el presupuesto".
 
 # Delimitación del Sector Público
 
