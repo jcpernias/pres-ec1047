@@ -5,6 +5,10 @@ project:
     - "01 - Intro.qmd"
 
 editor: visual
+lang: es
+subtitle: |
+  | EC1047 --- Economía del Sector Público
+  | Curso 2024--2025
 
 format:
   revealjs:
