@@ -14,66 +14,64 @@ title: "Introducción"
 
 -   Capítulo 2: "El Sector Público y el presupuesto".
 
-# Delimitación del Sector Público
+# Delimitación del sector público
 
-## El Sector Público
+## ¿Qué es el sector público?
 
 ¿Qué distingue el sector público del sector privado?
 
 ## Intervención pública
 
--   ¿Qué razones justifican la intervención pública?
+-   ¿Qué razones justifican la intervención pública en la economía?
 
--   ¿Cómo interviene el sector público?
+-   ¿Qué actividades desarrolla el sector público?
 
-## Gasto público
+## Medición de las actividades del sector público
 
--   COFOG
+-   Gastos.
 
-## Ingresos sel sector público
+-   Ingresos.
 
--   Empresas públicas
+-   Déficit y deuda pública.
 
--   Impuestos
+## Análisis económico del sector público
 
--   Cotizaciones sociales
+-   **Análisis positivo** frente a **análisis normativo.**
 
-## Déficit y deuda pública
+-   Preguntas básicas:
 
--   Déficit primario
+    -   ¿**Qué** producir?
 
--   Deuda pública
+    -   ¿**Cómo** producir?
 
-# El Sector Público en España
+    -   ¿**Para quién** producir?
 
-## Estructura del Sector Público en España
+    -   ¿**Cómo se toman las decisiones** dentro del sector público?
 
--   Administraciones públicas
+# El sector público en España
 
--   Sector empresarial público
+## Estructura del sector público en España
 
-## Las Administraciones públicas
+-   Administraciones públicas.
 
--   Estado Central
+-   Sector público empresarial.
 
--   Comunidades Autónomas
+## Las administraciones públicas
 
--   Corporaciones locales
+-   Administración Central:
 
--   Seguridad Social
+    -   Estado.
 
-# Conceptos {.unnumbered .unlisted}
+    -   Organismos de la Administración Central.
 
--   Principio de autoridad
+-   Administración Regional.
 
--   Eficiencia
+-   Administración Local.
 
--   Fallos de mercado
+-   Fondos de la Seguridad Social.
 
--   Regulación
+## El sector público empresarial
 
--   Redistribución
+-   Sociedades no financieras.
 
--   Provisión pública
-
--   Cotizaciones sociales
+-   Instituciones financieras públicas.
