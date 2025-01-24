@@ -21,7 +21,7 @@ format:
     theme: "blood"
     transition: "none"
     slideNumber: false
-    controls: true
+    controls: false
     progress: false
     history: true
     center: true
