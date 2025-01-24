@@ -18,7 +18,7 @@ number-depth: 1
 format:
   revealjs:
     embed-resources: true
-    theme: "blood"
+    theme: "night"
     transition: "none"
     slideNumber: false
     controls: false
