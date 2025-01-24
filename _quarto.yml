@@ -9,6 +9,11 @@ lang: es
 subtitle: |
   | EC1047 --- Economía del Sector Público
   | Curso 2024--2025
+toc: true
+toc-depth: 1
+number-sections: true
+number-depth: 1
+
 
 format:
   revealjs:
