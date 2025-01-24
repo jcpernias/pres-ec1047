@@ -2,6 +2,12 @@
 title: "Introducción"
 ---
 
+# Bibliografía {.unnumbered .unlisted}
+
+**Stiglitz** y **Rosengard**: *La economía del sector público*. Capítulo 1.
+
+**Albi** *et al*: *Economía Pública, volumen I*. Capítulo 2.
+
 # Delimitación del Sector Público
 
 ## El Sector Público
